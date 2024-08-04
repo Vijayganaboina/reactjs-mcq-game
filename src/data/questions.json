@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "question": "Which function is used to serialize an object into a JSON string in JavaScript?",
+    "answers": ["stringify()", "parse()", "convert()", "None of the above"],
+    "correct": "stringify()"
+  },
+  {
+    "id": 2,
+    "question": "Which company developed the React library?",
+    "answers": ["Google", "Facebook", "Microsoft", "Apple"],
+    "correct": "Facebook"
+  },
+  {
+    "id": 3,
+    "question": "What is the command to create a new React app?",
+    "answers": ["npx create-react-app my-app", "npm install react", "npm start", "react-create-app my-app"],
+    "correct": "npx create-react-app my-app"
+  },
+  {
+    "id": 4,
+    "question": "Which hook is used to manage state in a functional component?",
+    "answers": ["useEffect", "useState", "useContext", "useReducer"],
+    "correct": "useState"
+  },
+  {
+    "id": 5,
+    "question": "Which lifecycle method is invoked immediately after a component is mounted?",
+    "answers": ["componentDidMount", "componentWillMount", "componentDidUpdate", "componentWillUnmount"],
+    "correct": "componentDidMount"
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of the useEffect hook?",
+    "answers": ["To manage side effects in functional components", "To create context", "To handle state", "To create reducers"],
+    "correct": "To manage side effects in functional components"
+  },
+  {
+    "id": 7,
+    "question": "Which syntax is used to pass props in React?",
+    "answers": ["<Component props={value} />", "<Component {props} />", "<Component value={props} />", "<Component {...props} />"],
+    "correct": "<Component props={value} />"
+  },
+  {
+    "id": 8,
+    "question": "What is JSX?",
+    "answers": ["A syntax extension for JavaScript", "A type of CSS", "A database query language", "A React library"],
+    "correct": "A syntax extension for JavaScript"
+  },
+  {
+    "id": 9,
+    "question": "Which keyword is used to create a class component in React?",
+    "answers": ["function", "class", "component", "extends"],
+    "correct": "class"
+  },
+  {
+    "id": 10,
+    "question": "Which method in React component is called when the component is removed from the DOM?",
+    "answers": ["componentDidMount", "componentWillUnmount", "componentDidUpdate", "componentWillUpdate"],
+    "correct": "componentWillUnmount"
+  }
+]
+
+  
